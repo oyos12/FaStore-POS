@@ -1,5 +1,5 @@
 # FaStore-POS
-project pembelian pakaian dari toko ModaWear
+project struktur data pembelian pakaian dari toko ModaWear
 
 Sistem **Point of Sale (POS)** berbasis Python dan SQLite untuk toko pakaian. Aplikasi ini dirancang untuk memudahkan pengelolaan data pelanggan, produk, transaksi, serta pencetakan struk pembelian otomatis. Sangat cocok untuk digunakan sebagai studi kasus atau tugas akhir.
 
