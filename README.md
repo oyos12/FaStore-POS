@@ -38,4 +38,4 @@ Sistem **Point of Sale (POS)** berbasis Python dan SQLite untuk toko pakaian. Ap
 
 ```bash
 git clone C:\Users\HP ELITEBOOK\OneDrive\Documents\GitHub\FaStore-POS.git
-cd FaStore-POS-System
+cd FaStore-POS
